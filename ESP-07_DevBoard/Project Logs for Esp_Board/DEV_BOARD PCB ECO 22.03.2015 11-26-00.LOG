@@ -1,0 +1,5 @@
+Added Component: Designator=U3(SOT-23-TT3_N)
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=3.3V Pin=U3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U3-3
+Added Member To Class: ClassName=DEV_BOARD Member=Component U3 MCP1700T-3302E/TT

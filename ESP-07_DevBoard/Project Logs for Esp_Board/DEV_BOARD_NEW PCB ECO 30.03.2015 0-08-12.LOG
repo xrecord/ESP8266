@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GPIO0 Pin=Q2-1
+Removed Pin From Net: NetName=NetC2_2 Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=RESET Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Change Component Comment : Designator=C2 Old Comment=1uF New Comment=2.2uF
+Change Component Comment : Designator=C9 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C5 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=C10 Old Comment=1uF New Comment=100nF
+Change Component Comment : Designator=R2 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=R8 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=47K
+Change Component Comment : Designator=R7 Old Comment=Res2 New Comment=100K
+Change Component Comment : Designator=R4 Old Comment=Res2 New Comment=470K
+Added Pin To Net: NetName=NetC2_2 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GPIO0 Pin=Q2-3
+Added Pin To Net: NetName=RESET Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetQ3_3 Pin=Q3-3
+Added Pin To Net: NetName=NetQ3_3 Pin=R4-1
+Added Pin To Net: NetName=NetQ3_3 Pin=R7-2
+Added Net: Name=NetQ3_3
+Added Room: Name=DEV_BOARD

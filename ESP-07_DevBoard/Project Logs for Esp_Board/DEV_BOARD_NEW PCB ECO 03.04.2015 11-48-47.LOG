@@ -1,0 +1,9 @@
+Added Component: Designator=D?(3.2X1.6X1.1)
+Added Component: Designator=R2(6-0805_N)
+Added Pin To Net: NetName=GPIO0 Pin=D?-2
+Added Pin To Net: NetName=3.3V Pin=R2-1
+Added Pin To Net: NetName=NetD?_1 Pin=D?-1
+Added Pin To Net: NetName=NetD?_1 Pin=R2-2
+Added Net: Name=NetD?_1
+Added Member To Class: ClassName=DEV_BOARD Member=Component D? LED2
+Added Room: Name=DEV_BOARD

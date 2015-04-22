@@ -1,0 +1,4 @@
+Added Component: Designator=U?(SLAB-QFN-28-3125x3125TP_N)
+Added Pin To Net: NetName=GND Pin=U?-21
+Added Member To Class: ClassName=DEV_BOARD Member=Component U? CP2102-GM
+Added Room: Name=DEV_BOARD

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GPIO0 Pin=D?-2
+Removed Member From Class: ClassName=DEV_BOARD Member=D?
+Change Component Designator: OldDesignator=R2 NewDesignator=R9
+Added Component: Designator=D3(LED0805)
+Added Pin To Net: NetName=GPIO0 Pin=D3-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R9-2
+Added Net: Name=NetD3_1
+Added Member To Class: ClassName=DEV_BOARD Member=Component D3 LED0
+Added Member To Class: ClassName=DEV_BOARD Member=Component R9 100
+Added Member To Class: ClassName=DEV_BOARD Member=Component U2 ESP07
+Added Room: Name=DEV_BOARD

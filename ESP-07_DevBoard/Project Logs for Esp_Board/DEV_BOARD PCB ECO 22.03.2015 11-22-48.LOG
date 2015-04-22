@@ -1,0 +1,6 @@
+Added Component: Designator=U5(SOT-23-OT5_N)
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetC8_2 Pin=U5-3
+Added Pin To Net: NetName=NetC7_2 Pin=U5-4
+Added Pin To Net: NetName=NetR6_2 Pin=U5-5
+Added Member To Class: ClassName=DEV_BOARD Member=Component U5 MCP73831T-2ATI/OT
